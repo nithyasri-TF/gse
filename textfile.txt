@@ -1,4 +1,4 @@
-SUB DIVISIONS 
-1.Gmail,Images,sign in 
-2.Search engine, google search 
-3.privacy,Terms,Settings 
+COLOURS 
+1.Home screen-White page 
+2.Mic-Colourful 
+3.Sign in-Blue colour 
