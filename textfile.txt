@@ -1,4 +1,4 @@
-MAIN DIVISIONS 
-1.Top division 
-2.Centre division 
-3.Bottom division 
+SUB DIVISIONS 
+1.Gmail,Images,sign in 
+2.Search engine, google search 
+3.privacy,Terms,Settings 
